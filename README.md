@@ -1,4 +1,4 @@
-# Noise-Cancellation-For-Automobiles
+# Noise Cancellation For Automobiles
 Electrical and Electronics Engineering Senior Design - Fall 2020
 
 https://github.com/RezzaMir/Noise-Cancellation-For-Automobiles/blob/main/ANC%20System%20for%20Automobiles%20Final%20Report%20.pdf
